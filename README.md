@@ -1,14 +1,14 @@
+markdown
+
 \# Data Visualization App
 
 
 
-Приложение для визуализации и анализа данных с графическим интерфейсом на PyQt5.
+Приложение для визуализации данных на PyQt5.
 
 
 
 \## Функционал
-
-
 
 \- Статистика по данным
 
@@ -16,7 +16,7 @@
 
 \- Тепловые карты
 
-\- Линейные графики  
+\- Линейные графики
 
 \- Лог действий
 
@@ -24,23 +24,29 @@
 
 \## Установка
 
+```bash
+
 pip install -r src/requirements.txt
 
 python src/main.py
 
+Скриншоты
+
+https://images/main\_window.png
+
+https://images/statistics.png
+
+https://images/correlations.png
+
+https://images/heatmap.png
+
+https://images/line\_chart.png
+
+https://images/log.png
 
 
-\## Скриншоты
 
-!\[Главное окно](images/main\_window.png)
+Разработчик
 
-!\[Статистика](images/statistics.png)
-
-!\[Корреляции](images/correlations.png)
-
-!\[Тепловая карта](images/heatmap.png)
-
-!\[Линейные графики](images/line\_chart.png)
-
-!\[Лог действий](images/log.png)
+Логвинова Е.В.
 
